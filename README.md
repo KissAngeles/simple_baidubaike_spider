@@ -2,7 +2,7 @@
 新人小白为了学习python，按慕课网教程手打调试，也是为了给自己做个笔记总结
 
 python版本支持
-2.7
+* 2.7
 
 依赖库
 BeautifulSoup，urllib2
