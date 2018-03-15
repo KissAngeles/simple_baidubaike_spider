@@ -5,7 +5,7 @@ python版本支持
 * 2.7
 
 依赖库
-BeautifulSoup，urllib2
+*BeautifulSoup，urllib2
 
 项目概括
 XX
