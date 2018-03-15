@@ -10,6 +10,9 @@
 * 项目概括
   * XX
 
+* 思路图
+  * XX
+  
 * 项目开始
   * 执行spider_main.py即可
 
@@ -20,9 +23,6 @@
   * output.html 保存抓取到的网页数据
   * spider_main.py  主运行目录
   * url_manager.py  url地址管理模块
-
-* 思路图
-  * XX
 
 * 执行示例
   * XX
