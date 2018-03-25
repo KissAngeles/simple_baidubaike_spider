@@ -9,6 +9,7 @@
   
 * 项目概括
   * 可实现以百度百科python词条为入口抓取相关链接及简介并输出值html文件保存的功能
+  * 程序包括爬虫调度端spider_main，URL管理器url_manager，网页下载器html_downloader，网页解析器html_parser以及数据输出模块html_outputer
   * 1、爬虫调度端spider_main，负责调度，包括URL的管理，下载分析动作的执行，抓取的结果的输出
   * 2、
   * 3、
