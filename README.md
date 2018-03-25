@@ -9,6 +9,7 @@
 
 * 项目概括
   * XX
+  ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%95%B4%E4%BD%93%E7%BB%93%E6%9E%84.png)
 
 * 思路图
   * XX
@@ -26,4 +27,5 @@
   * url_manager.py  url地址管理模块
 
 * 执行实例
-  ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/test.png)
+  * XX
+  ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/test.png)
