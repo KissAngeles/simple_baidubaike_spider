@@ -16,7 +16,7 @@
   * 4、
   * 5、
   
-  ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%95%B4%E4%BD%93%E7%BB%93%E6%9E%84.png)
+  [image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%95%B4%E4%BD%93%E7%BB%93%E6%9E%84.png)
   
 * 思路图
   * XX
