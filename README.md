@@ -14,7 +14,7 @@
 
 
 * 执行实例
-  * XX
+  * XX
   
   ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%80%9D%E8%B7%AF%E5%9B%BE.png)
   
