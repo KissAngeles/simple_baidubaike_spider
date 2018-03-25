@@ -25,7 +25,7 @@
   * url_manager.py  url地址管理模块
 
 * 执行实例
-simple_baidubaike_spider/test.png
+  * simple_baidubaike_spider/test.png
 
 * 遇到的问题
   * XX
