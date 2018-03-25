@@ -26,6 +26,9 @@
 
 * 执行实例
   * simple_baidubaike_spider/test.png
+  ![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+
+
 
 * 遇到的问题
   * XX
