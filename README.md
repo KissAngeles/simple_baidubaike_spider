@@ -13,8 +13,8 @@
   ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%95%B4%E4%BD%93%E7%BB%93%E6%9E%84.png)
 
 * 思路图
-  ** XX
-  
+  * XX
+  
   ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%80%9D%E8%B7%AF%E5%9B%BE.png)
   
 * 项目开始
