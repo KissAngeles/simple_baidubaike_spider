@@ -32,5 +32,3 @@
 
 * 执行实例
   * XX
-  
-  ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/test.png)
