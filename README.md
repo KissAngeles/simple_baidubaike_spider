@@ -23,8 +23,8 @@
   * 首先从入口URL（百度百科python页面）获取数据
   * 解析出其中的新URL和简介，新URL新增至URL管理器内new_urls列表，简介则连同对应URL新增至数据输出模块内datas列表
   * 此后根据新URL列表中URL重复“抓取”及“解析”的步骤，直至抓取数量计数器溢出停止，抓取的过程中如果出现页面失效等情况，可提示craw failed并跳过
-  
-  ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%80%9D%E8%B7%AF%E5%9B%BE.png)
+  
+  ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%80%9D%E8%B7%AF%E5%9B%BE.png)
   
 * 项目开始
   * 执行spider_main.py即可
