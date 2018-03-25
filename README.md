@@ -24,8 +24,8 @@
   * spider_main.py  主运行目录
   * url_manager.py  url地址管理模块
 
-* 执行示例
-  * XX
+* 执行实例
+https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%89%A7%E8%A1%8C%E7%A4%BA%E4%BE%8B.png
 
 * 遇到的问题
   * XX
