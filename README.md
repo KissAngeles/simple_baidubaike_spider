@@ -11,7 +11,8 @@
   * XX
 
 * 思路图
-  * XX
+  * XX
+  ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/%E6%80%9D%E8%B7%AF%E5%9B%BE.png)
   
 * 项目开始
   * 执行spider_main.py即可
@@ -26,6 +27,3 @@
 
 * 执行实例
   ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/test.png)
-
-* 遇到的问题
-  * XX
