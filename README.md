@@ -30,6 +30,6 @@
   * 执行spider_main.py即可
 
 * 执行实例
-  * 执行后可见抓取到了10个URL并打印，同时将URL及其简介保存在output.html文件内
+  * 执行后可见抓取到了10个URL并打印，同时将URL及其简介保存在output.html文件内
   
   ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/test.png)
