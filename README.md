@@ -25,10 +25,7 @@
   * url_manager.py  url地址管理模块
 
 * 执行实例
-  * simple_baidubaike_spider/test.png
   ![image](https://github.com/KissAngeles/simple_baidubaike_spider/blob/master/test.png)
-
-
 
 * 遇到的问题
   * XX
